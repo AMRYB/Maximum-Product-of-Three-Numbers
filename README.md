@@ -1,4 +1,4 @@
-# Algorithms Tasks
+# Algorithms Tasks 
 
 ## Grading and Policies
 1. Students who use the Internet to plagiarize the task, or copy from their colleagues, will receive a grade of zero.
